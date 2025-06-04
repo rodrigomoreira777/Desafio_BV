@@ -16,19 +16,22 @@ Demonstrar com dados públicos a desigualdade de gênero nesses setores e propor
 
 ```
 bv-linha-de-credito-inclusiva/
-├── scripts/
-│   └── ocupacoes_tecnicas.txt
+├── ocupacoes_tecnicas.txt
 ├── sql/
-│   ├── 01_todos_vinculos.sql
-│   ├── 02_exclusao_ocupacoes.sql
-│   ├── 03_media_salarial.sql
-│   └── 04_quantidade_vinculos.sql
+│ ├── 01_todos_vinculos.sql
+│ ├── 02_exclusao_ocupacoes.sql
+│ ├── 03_media_salarial.sql
+│ └── 04_quantidade_vinculos.sql
 ├── dados/
-│   ├── brutos/
-│   └── tratados/
+│ ├── brutos/
+│ └── tratados/
 ├── executar_analises_bv.py
 └── requirements.txt
-```
+
+markdown
+Copiar
+Editar
+
 
 ## 🚀 Como usar
 
