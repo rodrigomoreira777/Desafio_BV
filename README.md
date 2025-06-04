@@ -28,11 +28,6 @@ bv-linha-de-credito-inclusiva/
 ├── executar_analises_bv.py
 └── requirements.txt
 
-markdown
-Copiar
-Editar
-
-
 ## 🚀 Como usar
 
 1. Configure sua chave do Google BigQuery (`.json`)
