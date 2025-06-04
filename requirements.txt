@@ -1,0 +1,3 @@
+pandas
+basedosdados
+google-cloud-bigquery
